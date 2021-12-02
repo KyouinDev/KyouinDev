@@ -10,5 +10,5 @@
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KyouinDev&theme=tokyonight&layout=compact&hide_border=true)
   
-  ![Github Stats](https://github-readme-stats.vercel.app/api?username=KyouinDev&show_icons=true&count_private=true&hide_rank=true&include_all_commits=true&hide=prs,contribs,issues&line_height=24&theme=tokyonight&hide_border=true)
+  ![Github Stats](https://github-readme-stats.vercel.app/api?username=KyouinDev&show_icons=true&count_private=true&hide_rank=true&include_all_commits=true&line_height=24&theme=tokyonight&hide_border=true)
 </div>
